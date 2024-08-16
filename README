@@ -1,0 +1,38 @@
+To implement the provided Java code in Eclipse, follow these steps:
+
+1. Set Up Eclipse and Create a New Project
+Open Eclipse:
+Launch Eclipse on your computer.
+Create a New Java Project:
+
+Go to File > New > Java Project.
+Enter the project name, e.g., OnlineFoodOrderingSystem.
+Click Finish.
+
+
+2. Create Java Classes
+Now you need to create each class as a separate Java file.
+
+Right-click on the src folder in your project.
+Select New > package.
+Name the package foodorder and click Finish.
+
+Right-click on the foodorder folder in your project.
+Select New > Class.
+Name the class FoodItem and click Finish.
+Copy and paste the FoodItem.java code into this class.
+save it 
+
+do the same for remaining classes except FoodOrderingSystem.java file
+
+Right-click on the foodorder folder in your project.
+Select New > Class.
+Name the class FoodOrderingSystem.
+Ensure the public static void main(String[] args) checkbox is selected so that this class contains the main method.
+Click Finish.
+Copy and paste the FoodOrderingSystem.java code into this class.
+
+
+3. Run the Program
+Compile and Run:
+
